@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="UserName">55dp</dimen>
+    <dimen name="passw">70dp</dimen>
+    <dimen name="Fname">60dp</dimen>
+    <dimen name="Lname">60dp</dimen>
+    <dimen name="email">65dp</dimen>
+    <dimen name="phone">60dp</dimen>
+    <dimen name="layout_width">65dp</dimen>
+</resources>
